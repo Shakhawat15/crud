@@ -1,0 +1,5 @@
+1. Create Database name crud.
+
+2. Inport crud.sql file in this database.
+
+=> The file in the sql folder.
